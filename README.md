@@ -1,16 +1,9 @@
-<a href="https://xmzr.dev">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gh.xmzr.dev/card.svg?theme=dark">
-    <img alt="Rauan Khamza: live Hong Kong time, weather and latest push" src="https://gh.xmzr.dev/card.svg?theme=light" width="840">
-  </picture>
-</a>
+<a href="https://xmzr.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://gh.xmzr.dev/card.svg?theme=dark"><img alt="Rauan Khamza: agent-native builder, CS at CityU Hong Kong. Live Hong Kong time, weather and latest push." src="https://gh.xmzr.dev/card.svg?theme=light" width="840"></picture></a>
 
-I build agent-native tools: I run most of my life through MCP servers and coding agents, and I open-source the parts that generalise.
+<a href="https://github.com/xamzar/socratic-watchdog"><picture><source media="(prefers-color-scheme: dark)" srcset="https://gh.xmzr.dev/repo.svg?name=socratic-watchdog&theme=dark"><img alt="socratic-watchdog: a Jupyter tutor on PyPI that asks a spoken Socratic question when your code fails" src="https://gh.xmzr.dev/repo.svg?name=socratic-watchdog&theme=light" width="840"></picture></a>
 
-- **[socratic-watchdog](https://github.com/xamzar/socratic-watchdog)**: a Jupyter tutor on [PyPI](https://pypi.org/project/socratic-watchdog/). When your code fails, it asks you a spoken Socratic question instead of giving the answer.
-- **[agent-hub](https://github.com/xamzar/agent-hub)**: Claude Code, Codex and Hermes on your phone. A self-hosted PWA with a one-line installer.
-- **[cityu-schedule](https://github.com/xamzar/cityu-schedule)**: finds every clash-free CityU timetable for the courses you pick ([live](https://cityu-schedule.xmzr.dev)).
+<a href="https://github.com/xamzar/agent-hub"><picture><source media="(prefers-color-scheme: dark)" srcset="https://gh.xmzr.dev/repo.svg?name=agent-hub&theme=dark"><img alt="agent-hub: Claude Code, Codex and Hermes on your phone, a self-hosted PWA" src="https://gh.xmzr.dev/repo.svg?name=agent-hub&theme=light" width="840"></picture></a>
 
-[xmzr.dev](https://xmzr.dev) · [LinkedIn](https://www.linkedin.com/in/xmzr/)
+<a href="https://github.com/xamzar/cityu-schedule"><picture><source media="(prefers-color-scheme: dark)" srcset="https://gh.xmzr.dev/repo.svg?name=cityu-schedule&theme=dark"><img alt="cityu-schedule: finds every clash-free CityU timetable" src="https://gh.xmzr.dev/repo.svg?name=cityu-schedule&theme=light" width="840"></picture></a>
 
-<sub>The card above is drawn fresh on every view by a Cloudflare Worker (<a href="worker/index.js">source</a>).</sub>
+<p><a href="https://xmzr.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://gh.xmzr.dev/link.svg?to=site&theme=dark"><img alt="xmzr.dev" src="https://gh.xmzr.dev/link.svg?to=site&theme=light"></picture></a> <a href="https://www.linkedin.com/in/xmzr/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://gh.xmzr.dev/link.svg?to=linkedin&theme=dark"><img alt="LinkedIn" src="https://gh.xmzr.dev/link.svg?to=linkedin&theme=light"></picture></a> <a href="https://github.com/xamzar/xamzar/blob/main/worker/index.js"><picture><source media="(prefers-color-scheme: dark)" srcset="https://gh.xmzr.dev/link.svg?to=github&theme=dark"><img alt="Source of these cards" src="https://gh.xmzr.dev/link.svg?to=github&theme=light"></picture></a></p>
