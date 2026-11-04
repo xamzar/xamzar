@@ -108,7 +108,7 @@ const get = (url) => fetch(url, { headers: { 'User-Agent': 'xmzr-gh-card', Accep
 
 async function load() {
   const lastCommit = async () => {
-    const [r] = (await get(`https://api.github.com/users/${USER}/repos?sort=pushed&per_page=1`)) || [];
+    const r = ((await get(`https://api.github.com/users/${USER}/repos?sort=pushed&per_page=3`)) || []).find(x => x.name !== USER);
     const [c] = (r && (await get(`https://api.github.com/repos/${USER}/${r.name}/commits?per_page=1`))) || [];
     return c && { repo: r.name, msg: c.commit.message.split('\n')[0], at: c.commit.committer.date };
   };
